@@ -1,0 +1,2 @@
+# ElectronicReadingRoom
+Practical trainning groupwork
